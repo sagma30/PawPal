@@ -1,0 +1,6 @@
+{
+  "name": "Zooby",
+  "description": "Technology-led pet-care ecosystem featuring admin dashboard, user management overview, authentication, pet health tracking, and bookings.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
